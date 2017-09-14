@@ -1,4 +1,4 @@
-# OMTCoreKit
+# private pod specs
 
 [![CI Status](http://img.shields.io/travis/mqlsq/OMTCoreKit.svg?style=flat)](https://travis-ci.org/mqlsq/OMTCoreKit)
 [![Version](https://img.shields.io/cocoapods/v/OMTCoreKit.svg?style=flat)](http://cocoapods.org/pods/OMTCoreKit)
@@ -22,7 +22,7 @@ pod "OMTCoreKit"
 
 ## Author
 
-mqlsq, liu.shaoqiu@qq.com
+mutouren
 
 ## License
 
